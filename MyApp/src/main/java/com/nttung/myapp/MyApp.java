@@ -15,9 +15,9 @@ public class MyApp {
         System.out.println("Hi!");
         int a =5;
         int b=10;
-        if(a>0)
-        {
-            System.out.print("ket qua la: " + (a+b));
-        }
+
+        if(a>0 && b>0)
+         System.out.print("ket qua la: " + (a+b));
+
     }
 }
