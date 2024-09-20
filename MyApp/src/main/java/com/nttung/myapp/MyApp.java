@@ -13,6 +13,8 @@ public class MyApp {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Hi!");
-
+        int a =5;
+        int b=10;
+        System.out.print("ket qua la: " + (a+b));
     }
 }
