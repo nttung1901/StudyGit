@@ -18,6 +18,7 @@ public class MyApp {
         if(a>0)
         {
             System.out.print("ket qua la: " + (a+b));
+            System.out.print("DONE");
         }
     }
 }
